@@ -8,3 +8,5 @@ Para testar você pode acessar o link: https://magic-01.herokuapp.com/cards e ca
 Lembre-se de passar o id da carta quando for editar(PUT) e deletar(DELETE). Esse id pode ser passado adicionando uma "/" e o número da carta que deseja alterar, dessa formar:  /1 (o número pode ser qualquer um, desde que  exista uma carta cadastrada no banco de dados com ele). Vale resaltar que no caso de teste com o Postman, a ordem tem que ser exatamente a mesma, mas se utilizar de inputs de um site esta ordem pode ser alterada facilmente.
 
 Caso não saiba, um id é o que identifica algo, é sua "identidade", nesse projeto assim que uma carta é cadastrada o id dele é gerado automaticamente.
+
+Obs: Ainda não terminei este projeto, pretendo deixa-lo um pouco mais robusto adicionando também cadastro de usuários, entre outros...
